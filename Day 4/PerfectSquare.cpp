@@ -23,7 +23,7 @@ Example 2:
 
 Input: num = 14
 Output: false
-
+*/
 
 class Solution {
 public:
@@ -39,4 +39,3 @@ public:
     }
 };
 
-*/
