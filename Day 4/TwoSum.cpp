@@ -21,7 +21,7 @@ Explanation: The sum of 2 and 4 is 6. Therefore index1 = 1, index2 = 3.
 #include <iostream>
 
 using namespace std;
-/*
+
 
 
 class Solution {
@@ -42,9 +42,4 @@ public:
 };
 
 
-*/
-int main() {
-    int arr[100];
-  
-   return 0;
-}
+
