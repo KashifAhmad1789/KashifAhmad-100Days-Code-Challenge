@@ -14,7 +14,7 @@ Output: [4,9]
 Explanation: [9,4] is also accepted.
 
 
-
+*/
 
 class Solution {
 public:
@@ -36,10 +36,9 @@ public:
                 j++;
             }
         }
-		//It is done to remove duplicate element from the ans vector
+		//remove the duplicate ans from the vector
        // ans.erase(unique(ans.begin(),ans.end()),ans.end());
         return ans;
         
     }
 };
-*/
